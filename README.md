@@ -1,3 +1,5 @@
+# PLEASE FIND THE MAINTAINED VERSION OF THIS REPO HERE: https://github.com/lingkaching/kcac
+
 # KCAC
 Knowledge Compilation for Action Contraints in Reinforcement Learning
 Constrained Amortized Q-Learning using a PSDD
